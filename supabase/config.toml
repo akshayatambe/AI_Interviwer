@@ -1,0 +1,4 @@
+project_id = "xzezsowxzxcugvjxdycz"
+
+[functions.interview-ai]
+verify_jwt = false
